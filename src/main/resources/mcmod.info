@@ -1,0 +1,16 @@
+[
+{
+  "modid": "brokensoul",
+  "name": "Broken Souls",
+  "description": "Broken Souls addon mod for The Lost Cities",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["McJty", "Tao"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
